@@ -1,10 +1,10 @@
 [
   {
-    "package": "ggmice",
+    "package": "mice",
     "oncran": true
   },
   {
-    "package": "mice",
+    "package": "ggmice",
     "oncran": true
   }
 ]
